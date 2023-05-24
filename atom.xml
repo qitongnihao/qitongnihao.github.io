@@ -1,35 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>测试用坂井泉水纪念网站</title>
+  <title>坂井泉水纪念网站</title>
   
-  
+  <subtitle>“ 私はいつも本当に、言葉を、詞を、大切にしてきました。音楽でそれが伝わればいいなと願っています ”</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-05-23T19:56:52.220Z</updated>
+  <updated>2023-05-24T02:56:44.007Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>qitongnihao</name>
+    <name>Zard fans</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>坂井泉水纪念</title>
+    <title>Forever Zard</title>
     <link href="http://example.com/2023/05/23/%E5%9D%82%E4%BA%95%E6%B3%89%E6%B0%B4%E7%BA%AA%E5%BF%B5/"/>
     <id>http://example.com/2023/05/23/%E5%9D%82%E4%BA%95%E6%B3%89%E6%B0%B4%E7%BA%AA%E5%BF%B5/</id>
     <published>2023-05-23T12:50:36.000Z</published>
-    <updated>2023-05-23T19:56:52.220Z</updated>
+    <updated>2023-05-24T02:56:44.007Z</updated>
     
-    <content type="html"><![CDATA[<p>请参看bilibili相关视频：<br>    <a href="https://www.bilibili.com/video/BV1sV411i7Vk">NHK纪录片：永远的ZARD 坂井泉水名曲诞生的背后</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="Forever-Zard"><a href="#Forever-Zard" class="headerlink" title="Forever Zard"></a><strong>Forever Zard</strong></h1><p style="text-indent:30px; text-align:justify"">坂井泉水是90年代日本销量最高的女歌手，也是日本流行音乐的代表人物之一，她就像太阳一般闪耀，给予人们力量。虽然她已逝去，但是她的精神和音乐却仍能鼓舞人心 </p><p style="text-indent:30px; text-align:justify">1990年代席卷音乐界的ZARD主唱坂井泉水，2007年5月27日年仅40岁便离开人世，这已是多年以前的事情了。2014年年末，小田急线涩泽站（神奈川县秦野市）为了纪念与该市有渊源的坂井小姐，将ZARD的歌曲用作「车站音乐」，死后她的功绩仍未褪色。和「負けないで」「揺れる想い」等百万金曲连发的光辉业绩形成对比的，是极少在媒体上曝光的歌姬。让我们再次回顾一下她不为人所知的真实形象吧。</p><p>请参看bilibili相关视频：<br>    <a href="https://www.bilibili.com/video/BV1sV411i7Vk">NHK纪录片：永远的ZARD 坂井泉水名曲诞生的背后</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;请参看bilibili相关视频：&lt;br&gt;    &lt;a href=&quot;https://www.bilibili.com/video/BV1sV411i7Vk&quot;&gt;NHK纪录片：永远的ZARD 坂井泉水名曲诞生的背后&lt;/a&gt;&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h1 id=&quot;Forever-Zard&quot;&gt;&lt;a href=&quot;#Forever-Zard&quot; class=&quot;headerlink&quot; title=&quot;Forever Zard&quot;&gt;&lt;/a&gt;&lt;strong&gt;Forever Zard&lt;/strong&gt;&lt;/h1&gt;&lt;p style=&quot;text-i</summary>
       
     
     
