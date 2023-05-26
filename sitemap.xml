@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2023/05/22/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E8%AE%B0%E5%BD%95/</loc>
+    <loc>http://qitongnihao.github.io/posts/11981.html</loc>
+    
+    <lastmod>2023-05-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://qitongnihao.github.io/about/index.html</loc>
     
     <lastmod>2023-05-25</lastmod>
     
@@ -11,16 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
-    
-    <lastmod>2023-05-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2023/05/23/%E5%9D%82%E4%BA%95%E6%B3%89%E6%B0%B4%E7%BA%AA%E5%BF%B5/</loc>
+    <loc>http://qitongnihao.github.io/posts/d06afb0.html</loc>
     
     <lastmod>2023-05-24</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://qitongnihao.github.io/categories/index.html</loc>
     
     <lastmod>2023-05-23</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://qitongnihao.github.io/tags/index.html</loc>
     
     <lastmod>2023-05-23</lastmod>
     
@@ -48,30 +48,30 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2023-05-25</lastmod>
+    <loc>http://qitongnihao.github.io/</loc>
+    <lastmod>2023-05-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://example.com/tags/Hexo/</loc>
-    <lastmod>2023-05-25</lastmod>
+    <loc>http://qitongnihao.github.io/tags/Hexo/</loc>
+    <lastmod>2023-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/github/</loc>
-    <lastmod>2023-05-25</lastmod>
+    <loc>http://qitongnihao.github.io/tags/github/</loc>
+    <lastmod>2023-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/Butterfly/</loc>
-    <lastmod>2023-05-25</lastmod>
+    <loc>http://qitongnihao.github.io/tags/Butterfly/</loc>
+    <lastmod>2023-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -79,8 +79,8 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2023-05-25</lastmod>
+    <loc>http://qitongnihao.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2023-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
